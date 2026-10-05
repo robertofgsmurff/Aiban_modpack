@@ -176,6 +176,11 @@ hash = "21e9d2a9919d7208f00fdacb1841e7a671e824f0c735f6fee0b45983aaf3501d"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "2b9727522c90a979eb9671ad7c5421443d91391b0697d1772146e6bfa19cb3c1"
+metafile = true
+
+[[files]]
 file = "mods/collective.pw.toml"
 hash = "ce338150961c9fcfcafda32329c104fa4b400e1688c7a3ce1acb27e8bc21bfaa"
 metafile = true
@@ -188,6 +193,11 @@ metafile = true
 [[files]]
 file = "mods/double-doors.pw.toml"
 hash = "1a9da25a548d3daeb7365ef4123db16c86666d97e0f56d1fdd7faf0a8ae44e3b"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "6b342a83e9736f0832e750c8d631273cf600305d73b32c8bd6a977811f6972ee"
 metafile = true
 
 [[files]]
