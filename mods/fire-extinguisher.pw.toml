@@ -1,13 +1,13 @@
 name = "Fire Extinguisher 🧯"
-filename = "fire_extinguisher-forge-26.3-8.4.1.jar"
+filename = "fire_extinguisher-fabric-26.3-8.4.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/GlhPy70K/versions/LisDq4Yn/fire_extinguisher-forge-26.3-8.4.1.jar"
+url = "https://cdn.modrinth.com/data/GlhPy70K/versions/Zrq4qLOP/fire_extinguisher-fabric-26.3-8.4.1.jar"
 hash-format = "sha512"
-hash = "f85707ff56e0351f0270d05112bc256a909f2f35aacb5885cde7e965c305c3d501b220afd60fd0764fa8eb798ca076021af1c6f432885bcf87d3f21ee0cbba0a"
+hash = "56bdad41d8d4fa7fb95df9531cd8f42c2e03b5d4af8f841f69d2392a640a955de9ced59024b861d7830cf3055d0e84528e5d5e518c23bb3845a8d566b168ee72"
 
 [update]
 [update.modrinth]
 mod-id = "GlhPy70K"
-version = "LisDq4Yn"
+version = "Zrq4qLOP"

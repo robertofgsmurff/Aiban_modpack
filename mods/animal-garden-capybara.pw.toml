@@ -1,13 +1,13 @@
 name = "Animal Garden - Capybara"
-filename = "animalgarden-capybara-1.0.0-forge-26.3-66.0.2.jar"
+filename = "animalgarden-capybara-1.0.0-fabric-26.3-0.160.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Sgv9MA7q/versions/t42y43U6/animalgarden-capybara-1.0.0-forge-26.3-66.0.2.jar"
+url = "https://cdn.modrinth.com/data/Sgv9MA7q/versions/1Pe18lui/animalgarden-capybara-1.0.0-fabric-26.3-0.160.5.jar"
 hash-format = "sha512"
-hash = "3a389984f17475463f201f90ba441f39aa2b4cae68508642792582d0eec720c120b8d1a2038c22b873d33ecd64c29830741c8d9aa32b82a17c62c2be86740615"
+hash = "a09b9a73965a1b3b04241893f2a84374a7761334cbfee322760336652a908093bc44a5ca4033853031ac84f866474569dbb31ad4b5485cee112f8eac932cf2c6"
 
 [update]
 [update.modrinth]
 mod-id = "Sgv9MA7q"
-version = "t42y43U6"
+version = "1Pe18lui"

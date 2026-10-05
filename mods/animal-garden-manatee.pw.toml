@@ -1,13 +1,13 @@
 name = "Animal Garden - Manatee"
-filename = "animalgarden-manatee-1.0.2-forge-26.3-66.0.2.jar"
+filename = "animalgarden-manatee-1.0.2-fabric-26.3-0.161.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/XzTcXQrj/versions/LPJFQFGL/animalgarden-manatee-1.0.2-forge-26.3-66.0.2.jar"
+url = "https://cdn.modrinth.com/data/XzTcXQrj/versions/N0r9Xbgz/animalgarden-manatee-1.0.2-fabric-26.3-0.161.0.jar"
 hash-format = "sha512"
-hash = "4dae00bc8810f634da6f9c217db05a31deb385bbf9444cc633d6830fb3745bd65ea1fa24bbf6d674ddef1c403694af8c2fa946dd3cf528c305fcadace422b8be"
+hash = "a48f0bd416ee2c2b6219178215effab10ee8ea8435ecea1b67047e7427778cae4d56d7af4b9baf073e52c2e738d4796a0adaba98b003e77fffaf8f2d0754c88d"
 
 [update]
 [update.modrinth]
 mod-id = "XzTcXQrj"
-version = "LPJFQFGL"
+version = "N0r9Xbgz"

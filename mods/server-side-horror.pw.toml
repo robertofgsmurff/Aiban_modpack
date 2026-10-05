@@ -1,13 +1,13 @@
 name = "Server-Side Horror"
-filename = "serversidehorror-26.3-forge-4.2.jar"
+filename = "serversidehorror-26.3-fabric-4.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/RJ4U0qmn/versions/HIZ9wJTh/serversidehorror-26.3-forge-4.2.jar"
+url = "https://cdn.modrinth.com/data/RJ4U0qmn/versions/JxhPs2W0/serversidehorror-26.3-fabric-4.2.jar"
 hash-format = "sha512"
-hash = "a25e21dd24667ab7222210f38e67ceb4a54c5a46efd1ffa978d4cdce160bf2bfc5210aaf64de7916416dcc55f75c48aa2b9f9d375cb49b2fbf32468b744d5709"
+hash = "f2c9a195fba6a056356b62c6705d68afff245006a9130c3f0f63caba82b4f7f13baa82a9bbc198f3c1d0367c5c9ac9c706ea438d04131b0689c641d7ed3bf121"
 
 [update]
 [update.modrinth]
 mod-id = "RJ4U0qmn"
-version = "HIZ9wJTh"
+version = "JxhPs2W0"

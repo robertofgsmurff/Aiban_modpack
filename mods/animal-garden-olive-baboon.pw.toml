@@ -1,13 +1,13 @@
 name = "Animal Garden - Olive Baboon"
-filename = "animalgarden-olivebaboon-1.0.0-forge-26.3-66.0.2.jar"
+filename = "animalgarden-olivebaboon-1.0.0-fabric-26.3-0.161.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/MP3x3vuY/versions/iLKuFOwC/animalgarden-olivebaboon-1.0.0-forge-26.3-66.0.2.jar"
+url = "https://cdn.modrinth.com/data/MP3x3vuY/versions/h6zKBJSa/animalgarden-olivebaboon-1.0.0-fabric-26.3-0.161.0.jar"
 hash-format = "sha512"
-hash = "007e45c8286da38670b45e2dca8740d16d07ce4f277c709544e6bdd8d7e890b5ea98b6a988dd8c7324466d1c70d6ec1583f2bc9f48031d2a28e5e48e27640ac6"
+hash = "7bae76b2a96bfd23c3a584ea212b832b18bf00cc8e78fc6eeb86ea1bfc36b1c112e3dc31ae5756fe42084e772e5bdbc8d1d16062b2eb16deb8adff4d99ef1b0f"
 
 [update]
 [update.modrinth]
 mod-id = "MP3x3vuY"
-version = "iLKuFOwC"
+version = "h6zKBJSa"

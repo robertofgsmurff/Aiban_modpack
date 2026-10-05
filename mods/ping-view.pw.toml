@@ -1,13 +1,13 @@
 name = "Ping View"
-filename = "pingview-forge-1.7.jar"
+filename = "pingview-fabric-1.7.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/gvl7lVcV/versions/Y41W7Wq6/pingview-forge-1.7.jar"
+url = "https://cdn.modrinth.com/data/gvl7lVcV/versions/EQmOBAxV/pingview-fabric-1.7.jar"
 hash-format = "sha512"
-hash = "f69c69ace00f961c718c1621fcd56ef2724ffd3acfb78c063408dcb70db0d3922306aaa10e3c80e145a3e2ba2023781738946ab3805586bde8a0e92f8ffa7b32"
+hash = "93550791fb0792d5d59b99feac286efcbd58fce5ce160824543f8eb04d333dbc3440d17bc9c0e9bf30bd0e6dee1a901de9f2a1fc64e97b2dd02b6c8cd8c5dae9"
 
 [update]
 [update.modrinth]
 mod-id = "gvl7lVcV"
-version = "Y41W7Wq6"
+version = "EQmOBAxV"

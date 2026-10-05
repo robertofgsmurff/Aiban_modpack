@@ -1,13 +1,13 @@
 name = "Konfig"
-filename = "konfig-forge-0.10.1+26.3.jar"
+filename = "konfig-fabric-0.10.1+26.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/pp7kIrlM/versions/JrAuJ1SB/konfig-forge-0.10.1%2B26.3.jar"
+url = "https://cdn.modrinth.com/data/pp7kIrlM/versions/5YaXuKdr/konfig-fabric-0.10.1%2B26.3.jar"
 hash-format = "sha512"
-hash = "234a477749fccea1597f4a0dda5af9e8065ac9aae5ce38c4454dc04a8d685db64d584f116deec9015c544b646114369ee0a86885847bcc66da166858400b63cc"
+hash = "06560bc9aa034892e5e32f7ed540fdf2716c6404de7c05b71413cfde5f2fac71cf620df3a8629166bc5449dbfcac7abeb3a347da3b27806b8d0423959c6b2fc7"
 
 [update]
 [update.modrinth]
 mod-id = "pp7kIrlM"
-version = "JrAuJ1SB"
+version = "5YaXuKdr"

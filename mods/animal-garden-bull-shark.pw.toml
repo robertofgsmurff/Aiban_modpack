@@ -1,13 +1,13 @@
 name = "Animal Garden - Bull Shark"
-filename = "animalgarden-bullshark-1.1.1-forge-26.3-66.0.2.jar"
+filename = "animalgarden-bullshark-1.1.1-fabric-26.3-0.161.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/d83mmflQ/versions/92naXupr/animalgarden-bullshark-1.1.1-forge-26.3-66.0.2.jar"
+url = "https://cdn.modrinth.com/data/d83mmflQ/versions/JTMAYYXX/animalgarden-bullshark-1.1.1-fabric-26.3-0.161.0.jar"
 hash-format = "sha512"
-hash = "9f335f5ada4bef4335986bcb0f558f84eda110c2f335b87dc54201a458b0ce4235cebe44400f86c1b7ff7a921b1c846042a89c653952600263eb9fca6786890a"
+hash = "355b04b4c08af0bf34eb74b69d72dae8464d105ee1bd5f2668bf846c9ac5a9bd4a650056355efac87f659bb8cce00222e887a7208fdea22740371a4c3f1b0d06"
 
 [update]
 [update.modrinth]
 mod-id = "d83mmflQ"
-version = "92naXupr"
+version = "JTMAYYXX"

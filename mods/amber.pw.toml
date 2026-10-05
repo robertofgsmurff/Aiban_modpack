@@ -1,13 +1,13 @@
 name = "Amber"
-filename = "amber-forge-11.7.0+26.3.jar"
+filename = "amber-fabric-11.7.0+26.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/vjGZJDu5/versions/dlJUwCRq/amber-forge-11.7.0%2B26.3.jar"
+url = "https://cdn.modrinth.com/data/vjGZJDu5/versions/ucZoxrgT/amber-fabric-11.7.0%2B26.3.jar"
 hash-format = "sha512"
-hash = "5742534a617753bae6413e3b3da588f66d742344e5eb6f5bcaaed50c37da8ab72ffc3cb8f6904a86ed79bf0cffc37e04795673d5b6c89a573afe6500020b2b45"
+hash = "d44829db1df6edfd2fd313b7b7e729416ea66b4a7c9c646880e1e9e0f2ae94f3db31820cdb0bde5993c925d5bb2daa08f850f6cae2fd01723ec10ac0dd78587f"
 
 [update]
 [update.modrinth]
 mod-id = "vjGZJDu5"
-version = "dlJUwCRq"
+version = "ucZoxrgT"

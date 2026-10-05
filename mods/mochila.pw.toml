@@ -1,13 +1,13 @@
 name = "Mochila"
-filename = "mochila-forge-6.2.0+26.3.jar"
+filename = "mochila-fabric-6.2.0+26.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/IWGxWQWM/versions/xtEcrs7S/mochila-forge-6.2.0%2B26.3.jar"
+url = "https://cdn.modrinth.com/data/IWGxWQWM/versions/op7wwkUJ/mochila-fabric-6.2.0%2B26.3.jar"
 hash-format = "sha512"
-hash = "5064a965d0eeb91bce9502e605783d05e4877020226f2cadbd5aa230d4a99f219fbe0074189bfd72a73f40f22a298369e226ff8b090343374f48fcd5a33797a3"
+hash = "2548bf76531c9f6c15ff3cbe91b16f325207ae18e9d233f7a8a97a8bab084befb1d3cbff28f48e8e59bff0e3bff4d63a0e6cdb298e07164272be276c7bebffa0"
 
 [update]
 [update.modrinth]
 mod-id = "IWGxWQWM"
-version = "xtEcrs7S"
+version = "op7wwkUJ"

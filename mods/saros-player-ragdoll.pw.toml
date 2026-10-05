@@ -1,13 +1,13 @@
 name = "Saro´s Player Ragdoll"
-filename = "Saros-Player-Ragdoll-Forge-26.3-2.0.9.jar"
+filename = "Saros-Player-Ragdoll-Fabric-26.3-2.0.7.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/fXMhbK0Y/versions/wuJbykTW/Saros-Player-Ragdoll-Forge-26.3-2.0.9.jar"
+url = "https://cdn.modrinth.com/data/fXMhbK0Y/versions/rO4TGs96/Saros-Player-Ragdoll-Fabric-26.3-2.0.7.jar"
 hash-format = "sha512"
-hash = "2b6412c7ac44d7aec4cb66ca3c103c5b1bf5310b57f8f32aa4c1c175d88806c805708665a587f3b26946c71209c00fa51daa456662cbaeae135335cadbbb2577"
+hash = "53270f94240bfcb3ed10ddad4c337bb921608459696109c7d3454747b47d24ec0170e12c519a96b1da1a92033f4cfecf4ba86a23213c4baac7f2d414b9cbe642"
 
 [update]
 [update.modrinth]
 mod-id = "fXMhbK0Y"
-version = "wuJbykTW"
+version = "rO4TGs96"
