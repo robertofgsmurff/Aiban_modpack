@@ -201,18 +201,8 @@ hash = "ea0298f2c823094896af3fcefb5a9e2306f712b5a11316e348859e3e663f83bc"
 metafile = true
 
 [[files]]
-file = "mods/guns_plus_plus.pw.toml"
-hash = "801729b50e2b5f897ec5bfc110d4f0ee7719fc043458a28d8f8a546703d0801f"
-metafile = true
-
-[[files]]
 file = "mods/hopo-better-underwater-ruins.pw.toml"
 hash = "dd88f43f6f6cdcc1e1e8c95036ee2e729d55b35f06e438e2b615d99f233766b0"
-metafile = true
-
-[[files]]
-file = "mods/incendium.pw.toml"
-hash = "0969604d87d9f5dbcd4f8353f3237e91564797ed815a809bdefc5b93fbedbc20"
 metafile = true
 
 [[files]]
