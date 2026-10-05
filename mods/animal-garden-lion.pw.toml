@@ -1,0 +1,13 @@
+name = "Animal Garden - Lion"
+filename = "animalgarden-lion-1.0.3-forge-26.3-66.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dA4X7lKe/versions/agdSAK59/animalgarden-lion-1.0.3-forge-26.3-66.0.2.jar"
+hash-format = "sha512"
+hash = "4dfe8497cede42fa66eb6e1338deeee4929f85c50007b8fe86a80119cf86deb55b9ea51a99c7beafd0f9a19a139ec57e4a1d3a6eff2c8b6d3b86871fc6d7084e"
+
+[update]
+[update.modrinth]
+mod-id = "dA4X7lKe"
+version = "agdSAK59"

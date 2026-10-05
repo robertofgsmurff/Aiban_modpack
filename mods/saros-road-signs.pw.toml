@@ -1,0 +1,13 @@
+name = "Saro´s Road Signs"
+filename = "Saros-Road-Signs-Forge-26.3-4.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ba3uA4qP/versions/Dl7NT70G/Saros-Road-Signs-Forge-26.3-4.21.jar"
+hash-format = "sha512"
+hash = "ef222d90cffb4b95368df403f1965a467abd7f2c3c52b3931698fd28e9f413da17b349fc5a106bd1cf27079c0fe3e72efd225c58611fd3545135b49ca5a42f5b"
+
+[update]
+[update.modrinth]
+mod-id = "Ba3uA4qP"
+version = "Dl7NT70G"

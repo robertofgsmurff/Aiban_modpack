@@ -1,0 +1,13 @@
+name = "Animal Garden - Snow Leopard"
+filename = "animalgarden-snowleopard-1.0.1-forge-26.3-66.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dC08F5P8/versions/yqnEbncD/animalgarden-snowleopard-1.0.1-forge-26.3-66.0.2.jar"
+hash-format = "sha512"
+hash = "bed7b7237223cd0b34e36b81cd76be52408afab19d6ed784c7fb226a776a53707f451a71390820894b8ebe2f2cb9f27702115f696e77fb60c4bb8cff248c7c58"
+
+[update]
+[update.modrinth]
+mod-id = "dC08F5P8"
+version = "yqnEbncD"

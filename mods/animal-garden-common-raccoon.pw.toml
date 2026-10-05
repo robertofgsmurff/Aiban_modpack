@@ -1,0 +1,13 @@
+name = "Animal Garden - Common Raccoon"
+filename = "animalgarden-commonraccoon-1.0.0-forge-26.3-66.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/U8RR1qbb/versions/dAA4nLVK/animalgarden-commonraccoon-1.0.0-forge-26.3-66.0.2.jar"
+hash-format = "sha512"
+hash = "0d2e9a0da0d19d7755c75ca4669e0257d5b815c4b63c3fa0e90e2cacb39b8a24e648b671f10ae843cc9c996d729522c7d2dc964d6d9c7ec6c23b82eaa7dc32c4"
+
+[update]
+[update.modrinth]
+mod-id = "U8RR1qbb"
+version = "dAA4nLVK"

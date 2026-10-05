@@ -1,0 +1,13 @@
+name = "GlitchCore"
+filename = "GlitchCore-forge-26.3-26.3.0.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/s3dmwKy5/versions/elIqWDMx/GlitchCore-forge-26.3-26.3.0.0.3.jar"
+hash-format = "sha512"
+hash = "f0711327bf1ea20bf2cdd3c43a37662eb89ee8973919c3256bafe7bab2bfd97fe95936817c618be5ee32d2afaee8782061d3c4c59dc3a9732e72e6ebc1f5c77d"
+
+[update]
+[update.modrinth]
+mod-id = "s3dmwKy5"
+version = "elIqWDMx"

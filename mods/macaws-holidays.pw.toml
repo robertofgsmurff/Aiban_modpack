@@ -1,0 +1,13 @@
+name = "Macaw's Holidays"
+filename = "mcw-holidays-1.1.2-mc26.3forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rH20L2Lp/versions/8JAYHryC/mcw-holidays-1.1.2-mc26.3forge.jar"
+hash-format = "sha512"
+hash = "7509f556795b822a50b6ae93cf457ef161418b1786fc20c145f34981568317f11eb298504f06f6d022a48bbb634340d62dd194f5725ae85becd8b687bb94320f"
+
+[update]
+[update.modrinth]
+mod-id = "rH20L2Lp"
+version = "8JAYHryC"

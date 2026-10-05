@@ -1,0 +1,13 @@
+name = "Animal Garden - Culpeo Fox"
+filename = "animalgarden-culpeofox-1.0.0-forge-26.3-66.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VtctvI8d/versions/OhknN8Z0/animalgarden-culpeofox-1.0.0-forge-26.3-66.0.2.jar"
+hash-format = "sha512"
+hash = "eae132dc291a2908fd00a1fc9ff8765fded2e3ee98480b7976a2fa542f6f69fab01e32200e37e308079dee026a6d8f5e03f8465e52f68fc807016d5920e46137"
+
+[update]
+[update.modrinth]
+mod-id = "VtctvI8d"
+version = "OhknN8Z0"

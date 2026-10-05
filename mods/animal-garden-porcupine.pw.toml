@@ -1,0 +1,13 @@
+name = "Animal Garden - Porcupine"
+filename = "animalgarden-porcupine-1.0.5-forge-26.3-66.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/m0TRBPCH/versions/Ma2zU4vD/animalgarden-porcupine-1.0.5-forge-26.3-66.0.2.jar"
+hash-format = "sha512"
+hash = "567305c4d6a2ad6070df6ad85b780b24d77747452b3afeb63b666a5478539a105cbbb4a02ab084f792aecb8e5853b7457453f480e6459e682092db4e6954a310"
+
+[update]
+[update.modrinth]
+mod-id = "m0TRBPCH"
+version = "Ma2zU4vD"

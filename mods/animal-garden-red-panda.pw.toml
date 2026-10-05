@@ -1,0 +1,13 @@
+name = "Animal Garden - Red Panda"
+filename = "animalgarden-redpanda-1.1.3-forge-26.3-66.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7mT3pD13/versions/aLQ7u5sQ/animalgarden-redpanda-1.1.3-forge-26.3-66.0.2.jar"
+hash-format = "sha512"
+hash = "f7b4ea3ae6cf7299c5c0775564f5cc513f27a60b98dbadd4335748ccbf3010c92c33090a07a5021f933752f75f6ff35f64acd771dfd734f4ec466c10e5eec889"
+
+[update]
+[update.modrinth]
+mod-id = "7mT3pD13"
+version = "aLQ7u5sQ"

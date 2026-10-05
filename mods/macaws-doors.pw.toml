@@ -1,0 +1,13 @@
+name = "Macaw's Doors"
+filename = "mcw-doors-1.1.5-mc26.3forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kNxa8z3e/versions/OZH46zqC/mcw-doors-1.1.5-mc26.3forge.jar"
+hash-format = "sha512"
+hash = "481f7ad2e745809a4da36f0eec2eb6a6f0686a1974f022e89545ca2bdae3643c4231c2a7d037da4c30c43ae0147d64786b0cf198427a1876bc542be37f8f4b7f"
+
+[update]
+[update.modrinth]
+mod-id = "kNxa8z3e"
+version = "OZH46zqC"

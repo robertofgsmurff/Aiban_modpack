@@ -1,0 +1,13 @@
+name = "InventoryHUD+"
+filename = "inventoryhud.forge.26.3-3.4.36.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Kp2uclYl/versions/U5fluwfU/inventoryhud.forge.26.3-3.4.36.jar"
+hash-format = "sha512"
+hash = "256c354a7663d11bfcc058b049cbd059802cb83a2f78d7d67964b14291cacf103feb0ba610f4e6dff28d2dbedcdd48d340278b4ae469c062b7faddaf1f0d96ea"
+
+[update]
+[update.modrinth]
+mod-id = "Kp2uclYl"
+version = "U5fluwfU"

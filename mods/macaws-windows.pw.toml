@@ -1,0 +1,13 @@
+name = "Macaw's Windows"
+filename = "mcw-windows-2.4.2-mc26.3forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/C7I0BCni/versions/l9XasDfZ/mcw-windows-2.4.2-mc26.3forge.jar"
+hash-format = "sha512"
+hash = "fc19ef9c99c6e2bba0c90a77c783fa73dc184b35f091020b7c64f499de98bcaba9aed107f29c86d7f4a0a9a962b83938879b6cd049a6289e30a436c041f9c4c9"
+
+[update]
+[update.modrinth]
+mod-id = "C7I0BCni"
+version = "l9XasDfZ"

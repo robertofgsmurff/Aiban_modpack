@@ -1,0 +1,13 @@
+name = "Aquarius Libs"
+filename = "aquariuslibs-1.2.0-forge-26.3-66.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KkHnyaL6/versions/VCknPZkS/aquariuslibs-1.2.0-forge-26.3-66.0.2.jar"
+hash-format = "sha512"
+hash = "8aff49ca12a6bbae5d177d0da6c69c0cd5f34f3578a20d6577937f50a82150f52b239a70d602f9b65bd491156e3418e231ead7720cb170f184156c7f1316b561"
+
+[update]
+[update.modrinth]
+mod-id = "KkHnyaL6"
+version = "VCknPZkS"

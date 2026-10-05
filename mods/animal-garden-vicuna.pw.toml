@@ -1,0 +1,13 @@
+name = "Animal Garden - Vicuna"
+filename = "animalgarden-vicuna-1.0.1-forge-26.3-66.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WpQiC9rN/versions/LxuMokSt/animalgarden-vicuna-1.0.1-forge-26.3-66.0.2.jar"
+hash-format = "sha512"
+hash = "38cfc0e4ce1b349cc20dbbcb20ca0de3a3364f0cab1db024f4afb2e67c74c4715e0d3f940fb67d507ee7ee3514b0ea98c21e824637cfdfb4579c7e2f04de0f9e"
+
+[update]
+[update.modrinth]
+mod-id = "WpQiC9rN"
+version = "LxuMokSt"

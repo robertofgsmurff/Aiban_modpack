@@ -1,0 +1,13 @@
+name = "Animal Garden -Alligator Gar"
+filename = "animalgarden-alligatorgar-1.0.0-forge-26.3-66.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bV68OKwf/versions/D6Z3b9ad/animalgarden-alligatorgar-1.0.0-forge-26.3-66.0.2.jar"
+hash-format = "sha512"
+hash = "09102871139957e19de2834be059c60badd0edd403bfc89941f787afd15cf8fd42754bc1e042ae852129ba479799d9bd86604228f161fdc56fd91faae97a86f7"
+
+[update]
+[update.modrinth]
+mod-id = "bV68OKwf"
+version = "D6Z3b9ad"

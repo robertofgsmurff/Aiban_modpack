@@ -1,0 +1,13 @@
+name = "Animal Garden - Mouse"
+filename = "animalgarden-mouse-1.0.6-forge-26.3-66.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Mm8Kzdc6/versions/W2x5m8ID/animalgarden-mouse-1.0.6-forge-26.3-66.0.2.jar"
+hash-format = "sha512"
+hash = "cc37427824de7a98fcf16566b5b501cb1909bee42c5c3368052a0838c8d6f6ef3e50b23f416140d6b34819a2aefd39caa0b4cae831c2bae48dcf787227e9fd23"
+
+[update]
+[update.modrinth]
+mod-id = "Mm8Kzdc6"
+version = "W2x5m8ID"

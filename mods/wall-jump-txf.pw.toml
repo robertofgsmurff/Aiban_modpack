@@ -1,0 +1,13 @@
+name = "Wall-Jump TXF"
+filename = "walljump-26.3-1.3.8-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oUoetxfR/versions/wRXLIha6/walljump-26.3-1.3.8-forge.jar"
+hash-format = "sha512"
+hash = "8dcbdffda0d484921b40c8734d76b1de7ba47599086cbd6a0486894631657cf31987c9a60d2d74d0349f7ce99b68852ea71a11c6caea252e4d6d54ce88009337"
+
+[update]
+[update.modrinth]
+mod-id = "oUoetxfR"
+version = "wRXLIha6"

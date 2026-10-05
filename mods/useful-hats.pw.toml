@@ -1,0 +1,13 @@
+name = "Useful Hats"
+filename = "usefulhats-forge-26.3-7.3.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OzlEq4Ya/versions/9PclP6Is/usefulhats-forge-26.3-7.3.0.0.jar"
+hash-format = "sha512"
+hash = "6e0ffcf0b3c0fbb7e26e5e8b645b0116ceeae646bc6d33f6384a6fa29b4875f30b7008bd6c904ced93e3591e98475253fdee3c753dc2d063c9bd379b9132c8eb"
+
+[update]
+[update.modrinth]
+mod-id = "OzlEq4Ya"
+version = "9PclP6Is"

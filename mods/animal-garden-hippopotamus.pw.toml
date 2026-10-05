@@ -1,0 +1,13 @@
+name = "Animal Garden - Hippopotamus"
+filename = "animalgarden-hippopotamus-1.0.2-forge-26.3-66.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PbzaJXgX/versions/dwlabqZX/animalgarden-hippopotamus-1.0.2-forge-26.3-66.0.2.jar"
+hash-format = "sha512"
+hash = "9c0980f575fc5044088aac5d8e8af0accffc44f575a953382c6fa1edecb1695f16dc864eb8b13a42ffeb19fcaea05bcbe4d4a594a94e51fd205f55257a0fbd8a"
+
+[update]
+[update.modrinth]
+mod-id = "PbzaJXgX"
+version = "dwlabqZX"

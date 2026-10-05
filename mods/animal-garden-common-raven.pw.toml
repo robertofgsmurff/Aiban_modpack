@@ -1,0 +1,13 @@
+name = "Animal Garden - Common Raven"
+filename = "animalgarden-commonraven-1.0.2-forge-26.3-66.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EzyL5Shd/versions/wOvAjRNv/animalgarden-commonraven-1.0.2-forge-26.3-66.0.2.jar"
+hash-format = "sha512"
+hash = "8c4044d04bbf60cc875157e3efd92611ba7edfcb3c294601c758da49ffe526c2b64144718e43393dd264e03c24b22269ecf0b5a81c8b90670bef2930c3b60a44"
+
+[update]
+[update.modrinth]
+mod-id = "EzyL5Shd"
+version = "wOvAjRNv"

@@ -1,0 +1,13 @@
+name = "Animal Garden - White Rhinoceros"
+filename = "animalgarden-whiterhinoceros-1.0.1-forge-26.3-66.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LTMmsfd4/versions/weTPhi3v/animalgarden-whiterhinoceros-1.0.1-forge-26.3-66.0.2.jar"
+hash-format = "sha512"
+hash = "d582878c1a9b8170a90b535ee0db283457fac39d2bee3f368fffe508909b6674ecef1acde3092d1f9ff29c5180f21a953b08339327569d2d5a1c640300ceb486"
+
+[update]
+[update.modrinth]
+mod-id = "LTMmsfd4"
+version = "weTPhi3v"

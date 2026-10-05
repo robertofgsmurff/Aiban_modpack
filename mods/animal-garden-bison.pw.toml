@@ -1,0 +1,13 @@
+name = "Animal Garden - Bison"
+filename = "animalgarden-bison-1.0.0-forge-26.3-66.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qDwwnqvr/versions/51pbumWd/animalgarden-bison-1.0.0-forge-26.3-66.0.2.jar"
+hash-format = "sha512"
+hash = "874277623832c6f9b619194ff5b65be042bcc161b7eec45c957c45297dcb5db71bdc5e489859841d49fff5b347d284c723985d220b97474de52759f955a6f1f8"
+
+[update]
+[update.modrinth]
+mod-id = "qDwwnqvr"
+version = "51pbumWd"

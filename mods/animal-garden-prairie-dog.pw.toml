@@ -1,0 +1,13 @@
+name = "Animal Garden - Prairie Dog"
+filename = "animalgarden-prairiedog-1.0.3-forge-26.3-66.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vdm5Eivp/versions/K1fuE0rC/animalgarden-prairiedog-1.0.3-forge-26.3-66.0.2.jar"
+hash-format = "sha512"
+hash = "ccdb46c6045fc7920113414893d7aa31cd2557a86b41c658c79b8cc5f01fc1b8c4c34ef753f24e8776046da454c46681b0393f9e9a97779ad5f1ef5acc33b081"
+
+[update]
+[update.modrinth]
+mod-id = "vdm5Eivp"
+version = "K1fuE0rC"

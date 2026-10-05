@@ -1,0 +1,13 @@
+name = "Better Advancements"
+filename = "BetterAdvancements-Forge-26.3-0.6.0.78.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Q2OqKxDG/versions/mjoOri2R/BetterAdvancements-Forge-26.3-0.6.0.78.jar"
+hash-format = "sha512"
+hash = "77fcd6b37b4492a0386dbfa67d1955c4170317e58159d09f529456dccbc32a7a6792191845971944fa677600ceed4ae8582ce47d4594dfd258773ae03ca26ba2"
+
+[update]
+[update.modrinth]
+mod-id = "Q2OqKxDG"
+version = "mjoOri2R"

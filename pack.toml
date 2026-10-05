@@ -1,0 +1,13 @@
+name = "Aiban Modpack"
+author = "Firo"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "1fadd49b2c9ae4a2a9c51f55c81f8ada899ee37b07ce15ed0ba2eb05e731b82f"
+
+[versions]
+forge = "66.0.9"
+minecraft = "26.3"

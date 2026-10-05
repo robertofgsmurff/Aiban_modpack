@@ -1,0 +1,13 @@
+name = "Animal Garden - Bongo"
+filename = "animalgarden-bongo-1.0.1-forge-26.3-66.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jLcflzN8/versions/R50FyFnd/animalgarden-bongo-1.0.1-forge-26.3-66.0.2.jar"
+hash-format = "sha512"
+hash = "481d01f292634cf2d4011766b04a54793ec89c46f3452a7ccd70c767e8ee22b7ca5afee7cc6a74d7d91b73a75f69b17fe6dce6494d43242a21160a9a89207472"
+
+[update]
+[update.modrinth]
+mod-id = "jLcflzN8"
+version = "R50FyFnd"
