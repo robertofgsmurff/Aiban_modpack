@@ -209,6 +209,10 @@ file = "mods/jegn-1.8.2+fabric26.3.jar"
 hash = "816bafb7e9d9b5c1bfd1219e2d6fc3c4a860bd58c6114ed5353386428bfe4d23"
 
 [[files]]
+file = "mods/jei-26.3-fabric-31.15.0.82.jar"
+hash = "b1cc10c21a93413f9d3b335d4e1c753ec02e67e4fc695b6be99f2f3f1b235e2d"
+
+[[files]]
 file = "mods/khazodacore-fabric-1.0.4+26.3.jar"
 hash = "96e39b52e922c9c75a61a7c4671845e5385a63c6f4cb23494fe61668fdda0aeb"
 
@@ -271,6 +275,14 @@ hash = "5aabe2b75023e641cd802ac833a3438b4530934fb3e6e4211171fbf350440263"
 [[files]]
 file = "mods/mcw-windows-2.4.2-mc26.3fabric.jar"
 hash = "689a9e21be315e2768cc6c6ee2c2cd17b27ba9ca1c7aa0dce223b7561d413cc6"
+
+[[files]]
+file = "mods/mezz_config-26.3-fabric-0.6.8.jar"
+hash = "9089137fc243e53222d969bad2c58988200f1c394fe6116fbdf01bc84ab02e51"
+
+[[files]]
+file = "mods/mezz_config_gui-26.3-fabric-mc26.3-0.5.11.jar"
+hash = "02ba077a85b31e8322da6a0068e1a6ef4630677c09bc075a64855ea4d32ae5c7"
 
 [[files]]
 file = "mods/mochila-fabric-6.2.0+26.3.jar"
