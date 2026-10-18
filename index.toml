@@ -221,6 +221,10 @@ file = "mods/lucky-blocks-world-v1.0.1.jar"
 hash = "c944f911685f3aadc5b41ba825f9a2b8905518676d1dc583b69368c1091e0dee"
 
 [[files]]
+file = "mods/ly-graves-3.0.1.jar"
+hash = "eb444ccfead9166592653ba454dd5a69c0e200099215d5cc8789f81b87396cf1"
+
+[[files]]
 file = "mods/mcw-bridges-3.1.2-mc26.3fabric.jar"
 hash = "10b3b5a40f47fbd367c7860e53d361d0e67877654508fb5ef42950518dbbc050"
 
