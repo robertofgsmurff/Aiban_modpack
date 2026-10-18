@@ -41,6 +41,10 @@ file = "mods/OnlyHammersAndExcavators-26.3-0.1.jar"
 hash = "9a75ff34954b595f798e03117959d16d6a63258e277ec65a13d4d9caace234f7"
 
 [[files]]
+file = "mods/RoughlyEnoughItems-26.3.824.jar"
+hash = "18e03267249f61b7cc1418be3824ae5da4a12d9e713fc989481b6a87efafee12"
+
+[[files]]
 file = "mods/Saros-Player-Ragdoll-Fabric-26.3-2.0.7.jar"
 hash = "14f952ca37eca0ad6e5115bc31b2beddcbe367860767bac667a60348b1c8a833"
 
@@ -79,6 +83,10 @@ hash = "04868ddaffd0007bda4e6ab5b8369a23aab509639bf399ff67518646e8692bef"
 [[files]]
 file = "mods/aquariuslibs-1.2.0-fabric-26.3-0.160.5.jar"
 hash = "1b94f392ef2fc637f8f076b6d987c4b7e1009fcc310aa34de6e8471b15984cb8"
+
+[[files]]
+file = "mods/architectury-fabric-22.0.5.jar"
+hash = "c6a60979f75fdf07a97971711b42529bc84cd7e4c873625d2ce0faf34278ecda"
 
 [[files]]
 file = "mods/audioplayer-fabric-2.5.0+26.3.jar"
